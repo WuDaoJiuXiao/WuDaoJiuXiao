@@ -10,7 +10,7 @@
 
 ---
 
-<h5>:computer: Tech Stack</h5>
+<h4>:computer: Tech Stack</h4>
 <div><img src="https://img.shields.io/badge/-Java-black?logo=java"> <img src="https://img.shields.io/badge/-C-black?logo=c"> <img src="https://img.shields.io/badge/-Python-black?logo=python"> <img src="https://img.shields.io/badge/-.NET-black?logo=dotnet"></div>
 
 <div><img src="https://img.shields.io/badge/-HTML5-black?logo=HTML5"> <img src="https://img.shields.io/badge/-CSS3-black?logo=css3"> <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript"></div>
@@ -24,7 +24,7 @@
 
 
 
-<h5>:telephone_receiver: Contact Me </h5>
+<h4>:telephone_receiver: Contact Me </h4>
 
 [![](http://shields.io/badge/Github-@WuDaoJiuXiao-blue.svg)](https://github.com/WuDaoJiuXiao) 
 [![](https://img.shields.io/badge/Leetcode-@悟道九霄-blue.svg)](https://leetcode-cn.com/u/wudaojiuxiao/) 
@@ -37,10 +37,10 @@
 
 
 
-<h5>:anchor: Github Analytics</h5> 
+<h4>:anchor: Github Analytics</h4> 
 
 <img src="https://github-readme-stats.vercel.app/api?username=wudaojiuxiao&show_icons=true&theme=dracula" align="left">
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wudaojiuxiao&theme=dracula&layout=compact">
+<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wudaojiuxiao&theme=dracula&layout=compact">
 <img src="https://github-profile-trophy.vercel.app/?username=wudaojiuxiao&theme=dracula" align="left">
 
 
