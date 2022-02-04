@@ -9,7 +9,7 @@
 :speech_balloon: Occasionally in a daze, fantasizing that he is the protagonist of the novel <br>
 :speech_balloon: After staying at the construction site for more than half a year <br>
 :speech_balloon: Finally I chose to resign and participate the Graduate Record Examination once again <br>
-:speech_balloon: I must have been a string of code in my past life hhhhh... </p>
+:speech_balloon: I must have been a string of code in my past life ... </p>
 
 
 ---
