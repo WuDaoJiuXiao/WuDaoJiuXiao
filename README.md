@@ -39,8 +39,8 @@
 
 <h4>:anchor: Github Analytics</h4> 
 
-<img src="https://github-readme-stats.vercel.app/api?username=wudaojiuxiao&show_icons=true&theme=dracula" align="left">
-<img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wudaojiuxiao&theme=dracula&layout=compact">
+<img width="40%" align="left" src="https://github-readme-stats.vercel.app/api?username=wudaojiuxiao&show_icons=true&theme=dracula" align="left">
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wudaojiuxiao&theme=dracula&layout=compact">
 <img src="https://github-profile-trophy.vercel.app/?username=wudaojiuxiao&theme=dracula" align="left">
 
 
