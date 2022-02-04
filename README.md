@@ -1,6 +1,6 @@
  <img src="https://s2.loli.net/2022/02/04/7mz6Zn8g4M5vx3D.jpg">
 <h3> 👏 Hi There ! 👏 </h3>
-<img align="right" width="280" height="128" src="https://s2.loli.net/2022/02/04/QI42TEcuoh1O87N.jpg">
+<img align="right" width="250" height="111" src="https://s2.loli.net/2022/02/04/QI42TEcuoh1O87N.jpg">
 <p>:speech_balloon: I am wudaojiuxiao, have a strong interest in :zap: technology :zap: <br>
 :speech_balloon: Likes to read fantasy novels, such as "Perfect World", "Covering the Sky", etc. <br>
 :speech_balloon: Occasionally in a daze, fantasizing that he is the protagonist of the novel <br>
