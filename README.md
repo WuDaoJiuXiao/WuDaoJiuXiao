@@ -1,7 +1,7 @@
 
 
 <h3> Hi There ! 👏</h3>
-<div>:computer: I am wudaojiuxiao, have a strong interest in technology</div>
+<div>I am wudaojiuxiao, have a strong interest in :computer: technology :computer: </div>
 
 ---
 
