@@ -3,7 +3,6 @@
  
  
 <h3> 👏 Hi There ! 👏 </h3>
-<img align="right" width="250" height="111" src="https://my-pic-1309513254.cos.ap-shanghai.myqcloud.com/Github%E5%B0%8F%E5%9B%BE.jpg">
 <p>:speech_balloon: I am wudaojiuxiao, have a strong interest in :zap: technology :zap: <br>
 :speech_balloon: Likes to read fantasy novels, such as "Perfect World", "Covering the Sky", etc. <br>
 :speech_balloon: Occasionally in a daze, fantasizing that he is the protagonist of the novel <br>
