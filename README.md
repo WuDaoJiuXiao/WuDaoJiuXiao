@@ -15,13 +15,9 @@
 
 
 <h4>:computer: Tech Stack</h4>
-<div><img src="https://img.shields.io/badge/-Java-black?logo=java"> <img src="https://img.shields.io/badge/-C-black?logo=c"> <img src="https://img.shields.io/badge/-Python-black?logo=python"> <img src="https://img.shields.io/badge/-.NET-black?logo=dotnet"></div>
+<div><img src="https://img.shields.io/badge/-Java-black?logo=java"> <img src="https://img.shields.io/badge/-Python-black?logo=python"> </div>
 
-<div><img src="https://img.shields.io/badge/-HTML5-black?logo=HTML5"> <img src="https://img.shields.io/badge/-CSS3-black?logo=css3"> <img src="https://img.shields.io/badge/-JavaScript-black?logo=javascript"></div>
-
-<div><img src="https://img.shields.io/badge/-Markdown-black?logo=markdown"> <img src="https://img.shields.io/badge/-Git-black?logo=git"> <img src="https://img.shields.io/badge/-Github-black?logo=github"> <img src="https://img.shields.io/badge/-Leetcode-black?logo=leetcode"></div>
-
-<div><img src="https://img.shields.io/badge/-Visual Studio Code-black?logo=visualstudiocode"> <img src="https://img.shields.io/badge/-IntelliJ IDEA-black?logo=intellijidea"> <img src="https://img.shields.io/badge/-Pycharm-black?logo=pycharm"></div>
+<div><img src="https://img.shields.io/badge/-IntelliJ IDEA-black?logo=intellijidea"> <img src="https://img.shields.io/badge/-Pycharm-black?logo=pycharm"></div>
 
 
 
