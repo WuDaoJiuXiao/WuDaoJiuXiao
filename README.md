@@ -15,9 +15,8 @@
 
 
 <h4>:computer: Tech Stack</h4>
-<div><img src="https://img.shields.io/badge/-Java-black?logo=java"> <img src="https://img.shields.io/badge/-Python-black?logo=python"> </div>
-
-<div><img src="https://img.shields.io/badge/-IntelliJ IDEA-black?logo=intellijidea"> <img src="https://img.shields.io/badge/-Pycharm-black?logo=pycharm"></div>
+<div><img src="https://img.shields.io/badge/-Java-black?logo=java"> <img src="https://img.shields.io/badge/-Python-black?logo=python"> <img src="https://img.shields.io/badge/-IntelliJ IDEA-black?logo=intellijidea"> 
+ <img src="https://img.shields.io/badge/-Pycharm-black?logo=pycharm"></div>
 
 
 
